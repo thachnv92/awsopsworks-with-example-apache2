@@ -1,4 +1,4 @@
-utomation Using OpsWorks
+Automation Using OpsWorks
 =========================
 
 As part of the AWS Tutorial Series YouTube channel here is the repository for the series Automation Using OpsWorks.
